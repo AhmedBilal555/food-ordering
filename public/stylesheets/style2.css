@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://sproutingzen.com/wp-content/uploads/2017/04/AdobeStock_111615673.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+form {
+    padding: 250px 0px;
+    width: 30%;
+    margin: 50px auto;
+}
+
+h2 {
+    color: black;
+}
+h1{
+    color: black;
+}

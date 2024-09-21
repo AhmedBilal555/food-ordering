@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    
+    <form action="/submit" method="POST">
+      <h1>Welcome to zomato</h1>
+      <label for="cuisine">Cuisine:</label>
+      <input type="text" id = "cuisine" name="foodCuisine">
+      <br>
+      <br>
+      <label for="fooditem" >food-item</label>
+      <input type="text" id ="fooditem" name="foodItem">
+      <br>
+      <br>
+      <label for="quantity">quantity</label>
+      <input type="text" id="quantity" name="Quantity" >
+      <br>
+      <br>
+      <input type="submit" value ="order">
+    </form>
+  </body>
+</html>

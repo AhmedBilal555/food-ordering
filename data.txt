@@ -1,0 +1,14 @@
+ cuisine : , food-item: , qunatity: 
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south india, food-item: naan paneer butter masala, qunatity: 6
+ cuisine : south , food-item: dosa, qunatity: 6
+ cuisine : parotta, food-item: dinner, qunatity: 3
